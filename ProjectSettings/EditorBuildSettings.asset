@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/AnaEkran.unity
-    guid: 2194fe559202da244a6cc0ad8cbc636d
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}

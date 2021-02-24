@@ -15762,6 +15762,11 @@ IL_0018:
 		return ((-L_3));
 	}
 }
+// System.Single System.Math::Abs(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Math_Abs_m3000EE46BF03ABDC45FCF52DC71464065D0A637B (float ___value0, const RuntimeMethod* method)
+{
+	return fabsf(___value0);
+}
 // System.Int32 System.Math::Max(System.Int32,System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Math_Max_mD8AA27386BF012C65303FCDEA041B0CC65056E7B (int32_t ___val10, int32_t ___val21, const RuntimeMethod* method)
 {
